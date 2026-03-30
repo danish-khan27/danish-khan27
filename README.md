@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Danish Khan
 
-<!--
-**danish-khan27/danish-khan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🚀 Full Stack Developer  
+📍 Illinois  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript, Python, Java
+- React, Node.js
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projects
+- Portfolio Website
