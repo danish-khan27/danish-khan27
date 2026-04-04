@@ -5,7 +5,7 @@
 📍 Illinois  
 
 ## 🛠 Tech Stack
-- JavaScript, Python, Java
+- JavaScript, HTML, CSS, Python, Java
 - React, Node.js
 - SQL
 
